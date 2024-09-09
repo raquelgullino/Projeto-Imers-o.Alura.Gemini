@@ -15,6 +15,12 @@ let dados = [
         titulo: "Diplomata",
         descricao: "Nos modelos de 1980, surgiria a nova versão topo-de-linha denominada Diplomata, mantendo como opcionais o revestimento de vinil, total ou parcial e oferecidos opcionalmente até 1982, e outros itens de conforto...",
         link: "https://pt.wikipedia.org/wiki/Chevrolet_Opala#Diplomata"
+    },
+
+     {
+        titulo: "Comodoro",
+        descricao: "No ano de 1975, somado à remodelação visual da linha e do lançamento da Caravan, houve a entrada de uma nova versão de luxo, em substituição à Gran Luxo, batizada de Comodoro, que trazia diferenciais como o interior com apliques de jacarandá, meio teto de vinil Las Vegas...",
+        link: "https://pt.wikipedia.org/wiki/Chevrolet_Opala#Comodoro"
     }
 
 ];
